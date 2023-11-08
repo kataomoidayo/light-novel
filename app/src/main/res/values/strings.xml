@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Light Novel</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="menu_detail">Detail</string>
+    <string name="penulis">Penulis</string>
+    <string name="ilustrator">Ilustrator</string>
+    <string name="genre">Genre</string>
+    <string name="volume">Volume</string>
+    <string name="terbit">Terbit</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="plot">Plot</string>
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="toko_resmi">Toko Resmi</string>
+    <string name="back">Kembali</string>
+    <string name="search_light_novel">Cari Light Novel</string>
+    <string name="no_search_data">Item tidak ditemukan</string>
+    <string name="no_favorite_data">Belum ada item yang difavoritkan</string>
+    <string name="name">PUTU ADI SAPUTRA</string>
+    <string name="email">19121101004@undhirabali.ac.id</string>
+</resources>
